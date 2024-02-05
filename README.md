@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)](https://rishavchanda.io)
+![MasterHead](https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif)
 <h1 align="center">Hi 👋, I'm Awais Shoukat</h1>
 <h3 align="center">WordPress Developer | UX Audit | Web Performance| Technical SEO and Full Site Audit</h3>
 <img align="right" src="https://images.squarespace-cdn.com/content/v1/56af9236b6aa60cdf1c52b4b/1464950341113-VN4PQR9DU6LSKDIVHPGI/image-asset.gif">
